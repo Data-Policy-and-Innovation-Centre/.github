@@ -4,6 +4,6 @@ DPIC is a pioneering academia-government data partnership between the Government
 
 ## For analysts and RAs
 
-Read the **[Analyst Guide](https://github.com/Data-Policy-and-Innovation-Centre/.github/wiki/Analyst-Guide)** before doing anything else. It covers machine setup, AWS and Box authentication, GitHub SSH access, and the daily `make`-based workflow.
+Read the **[Analyst Guide](https://github.com/Data-Policy-and-Innovation-Centre/.github/wiki/ANALYST_GUIDE.md)** before doing anything else. It covers machine setup, AWS and Box authentication, GitHub SSH access, and the daily `make`-based workflow.
 
 New projects are built on the **[dpic-project-template](https://github.com/Data-Policy-and-Innovation-Centre/dpic-project-template)**. Clone it to start a new project with the full toolchain already wired up.
